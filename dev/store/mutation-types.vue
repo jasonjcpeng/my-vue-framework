@@ -1,0 +1,7 @@
+<script>
+const _TYPES = {
+  CONTAINER_INDEX_CHANGE_LOADING_STATE: 'CONTAINER_INDEX_CHANGE_LOADING_STATE'
+}
+
+export default _TYPES;
+</script>
